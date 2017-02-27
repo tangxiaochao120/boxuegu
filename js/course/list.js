@@ -1,3 +1,3 @@
-define(['jquery'], function($) {
+define(['jquery','common'], function($) {
 	console.log('88')
 });
